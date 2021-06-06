@@ -112,4 +112,4 @@ Many Thanks to all the `Stargazers`!<br/>
 ## 📝 License
 
 Copyright © 2021 [Karan Choudhary](https://github.com/itskaranchoudhary).<br />
-This project is [MIT](https://github.com/itskaranchoudhary/firebase-auth-template/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/itskaranchoudhary/firebase-auth-app/blob/master/LICENSE) licensed.
