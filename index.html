@@ -1,0 +1,48 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firebase App</title>
+    <link rel="stylesheet" href="./src/styles/index.css">
+    <link rel="shortcut icon" href="./src/favicon.ico" type="image/x-icon">
+
+    <!-- FIREBASE -->
+    <script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-auth.js"></script>
+
+    <!-- FIREBASE CONFIG -->
+    <script>
+        var firebaseConfig = {
+          // PASTE YOUR FIREBASE CONFIG HERE
+          apiKey: "API_KEY",
+          authDomain: "PROJECT_ID.firebaseapp.com",
+          databaseURL: "https://PROJECT_ID.firebaseio.com",
+          projectId: "PROJECT_ID",
+          storageBucket: "PROJECT_ID.appspot.com",
+          messagingSenderId: "SENDER_ID",
+          appId: "APP_ID",
+          measurementId: "G-MEASUREMENT_ID",
+        };
+        firebase.initializeApp(firebaseConfig);
+    </script>
+</head>
+
+<body>
+    <div id="signup">
+            <section id="whenSignedOut">
+                <div class="signUpSection">
+                    <button id="signInBtn"><img src="./src/assets/SignIn-Button.png" alt="Signin-Button"></button>
+                </div>
+            </section>
+    </div>
+
+    <section id="whenSignedIn" hidden="true">
+            <div id="userDetails"></div>
+    </section>
+
+    <script src="./src/scripts/app.js"></script>
+</body>
+
+</html>

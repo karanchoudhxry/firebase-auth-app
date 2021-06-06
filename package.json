@@ -1,0 +1,22 @@
+{
+  "name": "firebase-auth-app",
+  "version": "1.0.0",
+  "description": "🚀Boilerplate Project for Google Authentication with Firebase",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^8.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itskaranchoudhary/firebase-auth-app.git"
+  },
+  "author": "Karan Choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itskaranchoudhary/firebase-auth-app/issues"
+  },
+  "homepage": "https://github.com/itskaranchoudhary/firebase-auth-app#readme"
+}
