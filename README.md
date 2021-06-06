@@ -105,10 +105,10 @@ Contributions, issues and feature requests are welcome! Feel free to check [issu
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
+<!-- 
 Many Thanks to all the `Stargazers`!<br/>
 [![Stargazers repo roster for @xKaran/firebase-auth-template](https://reporoster.com/stars/itskaranchoudhary/firebase-auth-app)](https://github.com/itskaranchoudhary/firebase-auth-app/stargazers)
-
+ -->
 ## 📝 License
 
 Copyright © 2021 [Karan Choudhary](https://github.com/itskaranchoudhary).<br />
