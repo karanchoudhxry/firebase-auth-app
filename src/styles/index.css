@@ -1,8 +1,8 @@
 #signup{
     display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
+    justify-content: center;
+    align-items: center;
+    height:800px;
 }
 
 #signInBtn{
