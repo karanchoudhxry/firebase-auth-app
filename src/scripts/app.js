@@ -13,5 +13,7 @@ const provider = new firebase.auth.GoogleAuthProvider();
 
 /// Sign in event handlers
 signInBtn.onclick = () => auth.signInWithPopup(provider);
-
-signOutBtn.onclick = () => auth.signOut();
+signOutBtn.onclick = () => {
+    auth.signOut();
+    location.reload();
+}
