@@ -97,7 +97,7 @@ Add the domain where the app is to be hosted under the `Authentication/Sign-In M
 
 👤 **Karan Choudhary**
 
-* Github: [@itskaranchoudhary](https://github.com/karanchoudhxry)
+* Github: [@karanchoudhxry](https://github.com/karanchoudhxry)
 
 ## 🤝 Contributing
 
