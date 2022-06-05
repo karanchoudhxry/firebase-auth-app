@@ -19,7 +19,7 @@
 
 > Boilerplate Project for Google Authentication with Firebase
 
-### 🏠 [Homepage](https://github.com/itskaranchoudhary/firebase-auth-app#readme)
+### 🏠 [Homepage](https://github.com/karanchoudhxry/firebase-auth-app#readme)
 ## 🛠️ Installation Steps
 
 **You’ll need to have Node 10.16.0 or later version on your local development machine**. We recommend using the latest LTS version.
@@ -47,7 +47,7 @@ npm install
 1. Clone the repository
 
 ```bash
-git clone git@github.com:itskaranchoudhary/firebase-auth-app.git
+git clone git@github.com:karanchoudhxry/firebase-auth-app.git
 ```
 
 2. Change the working directory
@@ -97,11 +97,11 @@ Add the domain where the app is to be hosted under the `Authentication/Sign-In M
 
 👤 **Karan Choudhary**
 
-* Github: [@itskaranchoudhary](https://github.com/itskaranchoudhary)
+* Github: [@itskaranchoudhary](https://github.com/karanchoudhxry)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/itskaranchoudhary/firebase-auth-app/issues).
+Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/karanchoudhxry/firebase-auth-app/issues).
 
 ## Show your support
 
